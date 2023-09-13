@@ -9,4 +9,5 @@ carry out of any stage is not dependent on the results of any previous stages th
 speed of addition increases. The carry-look ahead adder calculates one or more carry bits before the sum, which 
 reduces the wait time to calculate the result of the larger-value bits of the adder.
 
-![Screenshot (430)](https://github.com/Sharathsv08/32-bit-carry-look-ahead-adder/assets/123817826/c00ae0a4-643a-4cd7-81e6-319860a8544f)
+![Screenshot (433)](https://github.com/Sharathsv08/32-bit-carry-look-ahead-adder/assets/123817826/cd0284c9-c915-4b78-a18b-34f10a05a1bf)
+
